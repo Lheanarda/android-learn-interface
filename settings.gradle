@@ -1,0 +1,2 @@
+rootProject.name='Interface In Java'
+include ':app'
